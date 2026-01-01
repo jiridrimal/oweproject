@@ -7,7 +7,7 @@
     "react-dom": "^16.8.6",
     "react-dropdown": "^1.6.4",
     "react-input-slider": "^5.0.9",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-switch": "^5.0.0"
   },
   "scripts": {
